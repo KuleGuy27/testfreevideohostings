@@ -4,11 +4,11 @@ I also didn't want to use YouTube to host my video embeds because I don't like t
 
 I found and tested 6 free unlimited storage/bandwidth services, (Vidoza actually has a limit of 1.5TB :(), and these are the ones in the page:
 
-Abyss - https://abyss.to/
-Streamtape - https://streamtape.com/
-Doodstream - https://doodstream.com/
-MixDrop - https://mixdrop.ag/
-Vidoza - https://vidoza.net/
+Abyss - https://abyss.to/<br/>
+Streamtape - https://streamtape.com/<br/>
+Doodstream - https://doodstream.com/<br/>
+MixDrop - https://mixdrop.ag/<br/>
+Vidoza - https://vidoza.net/<br/>
 Lulustream - https://lulustream.com/
 
 
