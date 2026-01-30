@@ -85,9 +85,16 @@
 
     /* Tablet */
     @media (max-width: 1024px) {
-    table {font-size: 13px;}
+    table {
+        font-size: 13px;
+        width: 100%;
+    }
     th, td {padding: 8px;}
-    tbody td {height: 150px;}
+    td {width: 200px;}
+    tbody td {
+        min-width: 270px;
+        height: 150px;
+    }    
     img {width: 100px;}
     }
 
@@ -101,12 +108,13 @@
         font-size: 12px;
         min-width: 800px;
     }
-    tbody td {height: 110px;}
+    tbody td {
+        min-width: 300px;
+        height: 170px;
+    }
     img {width: 80px;}
     }
-
-    
-    
+   
 </style>    
 </head>
 <body>
